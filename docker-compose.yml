@@ -1,4 +1,4 @@
-# Creación del servicio
+version: '3.8'
 services:
   # Base de datos
   db:
